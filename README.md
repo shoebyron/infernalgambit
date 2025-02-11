@@ -1,12 +1,12 @@
-# infernalgambit
-The Infernal Gambit, an adventure for FoundryVTT
+# The Infernal Gambit
+An adventure for FoundryVTT
 
 Lord Quentin House and the Afterlife Casino hereby welcome you to the Masquerade of Sin.
 
 Dependencies:
 
-Animation Preview
-Argon Combat HUD (Depending on automation)*
+* Animation Preview
+* Argon Combat HUD (Depending on automation)*
 Automated Animations (Depending on automation)*
 Baileywiki Mass Edit
 Carousel Combat Tracker (Depending on automation)*
