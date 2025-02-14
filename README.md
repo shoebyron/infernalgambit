@@ -40,5 +40,5 @@ Dependencies:
 * Token Attacher
 * Token Magic FX
 * Token Magic FX - Automatic Wounds
-* Tokenizer
+* ~Tokenizer~
 * Torch (Depending on automation)*
