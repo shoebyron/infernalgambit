@@ -17,9 +17,9 @@ Dependencies:
 * Dice Tray
 * Dig Down - Advanced Search
 * FXMaster
-* Item Piles
+* *Item Piles*
 * Jack Kerouac’s Animated Spell Effects
-* **JB2A**
+* *JB2A*
 * lib - Color Settings
 * Library: DF Module Buttons
 * Library: Scene Packer
@@ -29,7 +29,7 @@ Dependencies:
 * Monk’s Tokenbar
 * Monk’s Wall Enhancement
 * Multiple Document Selection
-* **Plutonium**
+* *Plutonium*
 * Sequencer (Dependency for Automated Animations)*
 * Simbul’s Athenaeum
 * Simbul’s Cover Calculator
@@ -38,8 +38,8 @@ Dependencies:
 * Splatter
 * Spotlight Omnisearch
 * Tidy 5e Sheets
-* Token Attacher
-* Token Magic FX
+* *Token Attacher*
+* *Token Magic FX*
 * Token Magic FX - Automatic Wounds
 * ~Tokenizer~
 * Torch (Depending on automation)*
