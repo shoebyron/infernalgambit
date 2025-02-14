@@ -19,7 +19,7 @@ Dependencies:
 * FXMaster
 * Item Piles
 * Jack Kerouac’s Animated Spell Effects
-* JB2A
+* **JB2A**
 * lib - Color Settings
 * Library: DF Module Buttons
 * Library: Scene Packer
@@ -29,6 +29,7 @@ Dependencies:
 * Monk’s Tokenbar
 * Monk’s Wall Enhancement
 * Multiple Document Selection
+* **Plutonium**
 * Sequencer (Dependency for Automated Animations)*
 * Simbul’s Athenaeum
 * Simbul’s Cover Calculator
@@ -42,3 +43,5 @@ Dependencies:
 * Token Magic FX - Automatic Wounds
 * ~Tokenizer~
 * Torch (Depending on automation)*
+
+Bolded dependencies are required upon first activation.
