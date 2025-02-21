@@ -1,5 +1,5 @@
 # The Infernal Gambit
-An adventure for FoundryVTT
+*An adventure for FoundryVTT*
 
 Lord Quentin House and the Afterlife Casino hereby welcome you to the Masquerade of Sin.
 
