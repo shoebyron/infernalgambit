@@ -42,6 +42,6 @@ Dependencies:
 * **Token Magic FX**
 * Token Magic FX - Automatic Wounds
 * ~Tokenizer~
-* Torch (Depending on automation)*
+* ~Torch~
 
 Bolded dependencies are required upon first activation.
