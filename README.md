@@ -6,7 +6,7 @@ Lord Quentin House and the Afterlife Casino hereby welcome you to the Masquerade
 Dependencies:
 
 * Animation Preview
-* Argon Combat HUD (Depending on automation)*
+* Argon Combat HUD
 * Automated Animations (Depending on automation)*
 * Baileywiki Mass Edit
 * Carousel Combat Tracker (Depending on automation)*
@@ -16,10 +16,10 @@ Dependencies:
 * Dice So Nice!
 * Dice Tray
 * Dig Down - Advanced Search
-* **FXMaster**
-* **Item Piles**
+* **FXMaster (!)**
+* **Item Piles (!)**
 * Jack Kerouac’s Animated Spell Effects
-* **JB2A**
+* **JB2A (!)**
 * lib - Color Settings
 * Library: DF Module Buttons
 * Library: Scene Packer
@@ -29,19 +29,19 @@ Dependencies:
 * Monk’s Tokenbar
 * Monk’s Wall Enhancement
 * Multiple Document Selection
-* **Plutonium**
+* **Plutonium (!)**
 * Sequencer (Dependency for Automated Animations)*
 * Simbul’s Athenaeum
 * Simbul’s Cover Calculator
-* SmallTime
-* **socketlib**
+* **SmallTime (!)**
+* **socketlib (!)**
 * Splatter
 * Spotlight Omnisearch
-* Tidy 5e Sheets
-* **Token Attacher**
-* **Token Magic FX**
+* **Tidy 5e Sheets (!)**
+* **Token Attacher (!)**
+* **Token Magic FX (!)**
 * Token Magic FX - Automatic Wounds
 * ~Tokenizer~
-* ~Torch~
+* Torch
 
-Bolded dependencies are required upon first activation.
+Bolded (!) dependencies are required upon first activation.
