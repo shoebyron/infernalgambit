@@ -18,7 +18,7 @@ Dependencies:
 * Dig Down - Advanced Search
 * **FXMaster (!)**
 * **Item Piles (!)**
-* Jack Kerouac’s Animated Spell Effects
+* ~Jack Kerouac’s Animated Spell Effects~
 * **JB2A (!)**
 * lib - Color Settings
 * Library: DF Module Buttons
