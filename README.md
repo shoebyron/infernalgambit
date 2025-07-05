@@ -9,7 +9,7 @@ Dependencies:
 * Argon Combat HUD
 * Automated Animations (Depending on automation)*
 * Baileywiki Mass Edit
-* Carousel Combat Tracker (Depending on automation)*
+* ~Carousel Combat Tracker (Depending on automation)*~
 * Cautious Gamemaster’s Pack
 * DnD5e Animations (Depending on automation)*
 * DF Curvy Walls
